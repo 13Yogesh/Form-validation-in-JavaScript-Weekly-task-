@@ -1,0 +1,301 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.box-1
+{
+    background-color: rgba(240, 248, 255, 0);
+    height:450px;
+    width:350px;
+    border:2px solid rgb(48, 48, 48);
+    padding:50px;
+    margin:10px;
+    margin-top:-380px;
+    margin-left:900px;
+    margin-right: 0%;
+    z-index: 1;
+    position: relative;
+    border-radius: 25px;
+}
+
+.video-contant
+{
+    position: relative;
+    color: white;
+    margin-top:35px;
+    font-size:55px;
+    margin-left:80px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+.formline
+{
+    margin-top: 25px;
+}
+.entrilogo  
+{
+    margin-top: -835px;
+    margin-left:15px;
+}
+
+.elevetelogo
+{
+    border-radius:50%;
+   
+}
+.video-con-one
+{
+    position: relative;
+    color: white;
+    margin-top:-50px;
+    font-size:25px;
+    margin-left:80px;
+}
+
+.video-con-two
+{
+    position: relative;
+    color: white;
+    margin-top:-10px;
+    font-size:15px;
+    margin-left:80px;
+    font-weight: bold;
+}
+
+.gpay
+{
+    margin-left:75px;
+    margin-top: -60px;
+    cursor: pointer;
+    position: relative;
+}
+
+.appstore
+{
+    margin-left:240px;
+    margin-top:-123px;
+    cursor: pointer;
+    position: relative;
+}
+.login
+{
+    font-size: 35px;
+    color: white;
+    align-items: center;
+    text-align: center;
+    margin-top: -35PX;
+}
+.uname
+{
+    color: white;
+    font-size: 25px;
+    margin-left: -25px;
+    margin-top: 35px;
+    
+}
+
+.email
+{
+    color: white;
+    font-size: 25px;
+}
+
+.age
+{
+    color: white;
+    font-size: 25px;
+}
+.submit
+{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    margin-left:130px;
+}
+
+.ulabel
+{
+
+    margin-left:115px;
+    margin-top: -22px
+    
+}
+
+
+.pword
+{
+    color: white;
+    font-size: 25px;
+    margin-left: -25px;
+    margin-top: 35px;
+    
+}
+
+.password
+{
+
+    margin-left:115px;
+    margin-top: -22px;
+    
+}
+
+.login-2
+{
+    background-color: rgba(240, 248, 255, 0);
+    color: white;
+    margin-top: 45px;
+    border-radius: 25px;
+    padding:2px;
+    font-size:18px;
+    cursor: pointer;
+    margin-left:120px;
+    padding-left:45px;
+    padding-right:45px;
+
+   
+}
+
+.fpass
+{
+    margin-top:25px;
+    
+    color: white;
+    margin-left:116px;
+    cursor: pointer;
+}
+.nuser
+{
+    margin-top:35px;
+    color: white;
+    margin-left:135px;
+    cursor: pointer;
+}
+
+
+.signupnow
+{
+    background-color: rgba(240, 248, 255, 0);
+    color: white;
+    margin-top:20px;
+    border-radius: 25px;
+    padding:5px;
+    font-size:15px;
+    cursor: pointer;
+    margin-left:120px;
+    padding-left:20px;
+    padding-right:20px;
+    
+}
+
+.smedia
+{
+    color: white;
+    font-size:18px;
+    margin-left:95px;
+    margin-top: 35px; 
+}
+
+.fb
+{
+
+    margin-left: 15px;
+    font-size:40px;
+    cursor: pointer;
+    color: white;
+   
+    
+}
+.twit
+{
+   margin-left:80px;
+   margin-top:-43px;
+   font-size:40px;
+   cursor: pointer;
+   color: white;
+
+   
+}
+.link
+{
+    margin-left:140px;
+    margin-top:-45px;
+    font-size:40px;
+    cursor: pointer;
+    color: white;
+}
+.insta
+{
+
+    margin-left:200px;
+    margin-top:-47px;
+    font-size:40px;
+    cursor: pointer;
+    color: white;
+    
+}
+.youtube
+{
+    margin-left:260px;
+    margin-top: -48px;
+    font-size:40px;
+    cursor: pointer;
+    color: white;
+    
+}
+
+.socialmedia
+{
+    margin-top: 25px;
+    margin-left:20px;
+    font-size:40px;
+    
+}
+
+.fb:hover
+{
+    color: blue;
+}
+
+.twit:hover
+{
+    color: rgb(0, 255, 247);
+}
+.link:hover
+{
+    color: rgb(13, 0, 255);
+}
+.insta:hover
+{
+    color: rgb(255, 0, 64);
+}
+.youtube:hover
+{
+    color: rgb(255, 0, 0);
+}
+
+.sp-1:hover
+{
+    color: blue;
+}
+.sp-2:hover
+{
+    color: rgb(0, 255, 247);
+}
+.sp-3:hover
+{
+    color: rgb(13, 0, 255);
+}
+.sp-4:hover
+{
+    color: rgb(255, 0, 64);
+}
+.sp-5:hover
+{
+    color: rgb(255, 0, 0);
+}
+
+
+
